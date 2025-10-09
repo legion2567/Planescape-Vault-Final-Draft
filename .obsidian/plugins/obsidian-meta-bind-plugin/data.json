@@ -1,0 +1,485 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "DD/MM/yyyy",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New NPC",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-NPC",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:3ad71beb-875e-49a5-890a-c7d60338a327"
+        }
+      ]
+    },
+    {
+      "label": "New Organization",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Organization",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:a7b9a9e0-2272-4d4e-9902-dfe7be88a319"
+        }
+      ]
+    },
+    {
+      "label": "New Player",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Player",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:73a1bf99-4947-4b82-8771-7f8926b9f3d3"
+        }
+      ]
+    },
+    {
+      "label": "New Party Dashboard",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Party-Dashboard",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:77ad7a38-30f7-46f2-924f-f9fb50f05c89"
+        }
+      ]
+    },
+    {
+      "label": "New Settlement",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Settlement",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:fb0d513f-caa5-4f49-9883-04286d97f999"
+        }
+      ]
+    },
+    {
+      "label": "New Topography",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Topography",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:4c143266-fc5f-4f68-8943-8a4cd9cff045"
+        }
+      ]
+    },
+    {
+      "label": "New Session",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Session",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:13d05878-e695-499a-a342-a31006f5668f"
+        }
+      ]
+    },
+    {
+      "label": "New Letter",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Letter",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:47c04e97-adf5-4b12-bd15-bb66b86cd64e"
+        }
+      ]
+    },
+    {
+      "label": "New Region",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Region",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:8dae9340-e2bc-4f02-9a39-dd23aec89dad"
+        }
+      ]
+    },
+    {
+      "label": "New District",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-District",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:1da46921-f47a-4f89-88e0-5e8fc155d560"
+        }
+      ]
+    },
+    {
+      "label": "New Deity",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Deity",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:2669722c-3d5f-4ac1-8141-c1b6dcef0b75"
+        }
+      ]
+    },
+    {
+      "label": "New Adventure",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Adventure",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:29e22750-c4be-4905-a4c3-0b42299c86be"
+        }
+      ]
+    },
+    {
+      "label": "New Service",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Service",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:a4029407-1287-450a-9b74-4129409561c9"
+        }
+      ]
+    },
+    {
+      "label": "New Quest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Quest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:e43e5aac-83d3-4993-b390-048a451f141b"
+        }
+      ]
+    },
+    {
+      "label": "New Literature",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Literature",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:adcb07d3-b4b2-45c9-9dfb-b09dd91ea32a"
+        }
+      ]
+    },
+    {
+      "label": "New Excalidraw",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Excalidraw",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab"
+        }
+      ]
+    },
+    {
+      "label": "New Journey Board",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Journey-Board",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:e9178a22-fe4e-43c0-bf82-6a292baf691d"
+        }
+      ]
+    },
+    {
+      "label": "New Hierarchy",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Hierarchy",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:10e26885-c0f8-4704-8b90-f351f64ea1e9"
+        }
+      ]
+    },
+    {
+      "label": "New World",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-World",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:84b2b648-96d6-4dcf-87f3-3be11f5fd12d"
+        }
+      ]
+    },
+    {
+      "label": "New Plane",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Plane",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:bfd32caf-29d2-4fcf-b6fa-450b3b185a4b"
+        }
+      ]
+    },
+    {
+      "label": "New Point Of Interest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-POI",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:b566f145-cec2-4256-ba2d-1a1c7071027e"
+        }
+      ]
+    },
+    {
+      "label": "New Event",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Event",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:fc8e4b32-a621-4c4a-af8d-209cd1e1a5a8"
+        }
+      ]
+    },
+    {
+      "label": "Next In-Game Day",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "Next-Day",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "calendarium:advance-calendarium-current-date"
+        }
+      ]
+    },
+    {
+      "label": "New Vehicle",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Vehicle",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:8db095f2-face-4f2f-b4e7-039e86430f3c"
+        }
+      ]
+    },
+    {
+      "label": "New Ancestry",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Ancestry",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:7a30a378-ce40-4dc6-9b2f-3f2b4cb17798"
+        }
+      ]
+    },
+    {
+      "label": "New Heritage",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Heritage",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:34cc033d-40fe-4e1a-8c1b-b8c0453cbb1c"
+        }
+      ]
+    },
+    {
+      "label": "New Language",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Language",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:8df36be6-c436-41dc-8778-4652778a26d1"
+        }
+      ]
+    },
+    {
+      "label": "New Spell",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Spell",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:083950c5-7cee-4340-90c2-eb3de0b2b51b"
+        }
+      ]
+    },
+    {
+      "label": "New Item",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Item",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:3404ec83-b324-42ca-9dcb-95d994109f4a"
+        }
+      ]
+    },
+    {
+      "label": "New Rumour",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Rumour",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:96257ce4-55a3-4e1e-8fdd-267b5ca58ce1"
+        }
+      ]
+    },
+    {
+      "label": "New Area",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Area",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:b9859d19-f2d8-4ba7-87ff-ab3fb8febad0"
+        }
+      ]
+    },
+    {
+      "label": "New NPC (Tabs)",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-NPC-Tabs",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:548124fc-172e-426d-b757-42cd83d4e7fe"
+        }
+      ]
+    },
+    {
+      "label": "New Creature",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Creature",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:b96c0e85-8c53-476e-ae25-7cb9d44e0ba2"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
+}

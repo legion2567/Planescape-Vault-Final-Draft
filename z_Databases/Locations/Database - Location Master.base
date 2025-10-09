@@ -1,0 +1,110 @@
+formulas:
+  LinkedViaPlace: |
+    list(currentLocation)                                          
+      .filter( file(value)                                     
+               && list(file(value).properties.currentLocation)     
+                    .contains(this) )                          
+      .length > 0
+  PlacesForThis: |
+    list(currentLocation)
+      .filter( file(value)
+               && list(file(value).properties.currentLocation).contains(this) )
+      .map( link(value, file(value).name) )
+properties:
+  file.name:
+    displayName: Name
+  PlacesForThis:
+    displayName: Places (for this note)
+  note.aliases:
+    displayName: Aliases
+  note.vehicleType:
+    displayName: Type
+  note.poiType:
+    displayName: Type
+  note.titles:
+    displayName: Titles
+  note.occupation:
+    displayName: Occupation
+  note.district:
+    displayName: District
+  note.currentLocation:
+    displayName: Location
+views:
+  - type: cards
+    name: Characters
+    filters:
+      and:
+        - file.inFolder("Campaign/Characters")
+        - or:
+            - '!condition.contains("Dead")'
+            - condition.isEmpty()
+        - or:
+            - currentLocation.contains(this)
+            - formula.LinkedViaPlace
+    order:
+      - file.name
+      - occupation
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.art
+    cardSize: 100
+    columnSize:
+      file.name: 182
+    imageAspectRatio: 1
+    imageFit: ""
+  - type: table
+    name: Points of Interest
+    filters:
+      and:
+        - file.inFolder("Campaign/Locations/Points of Interest")
+        - or:
+            - currentLocation.contains(this)
+            - formula.LinkedViaPlace
+    order:
+      - file.name
+      - aliases
+      - poiType
+      - currentLocation
+    image: note.art
+    cardSize: 100
+    columnSize:
+      file.name: 160
+      note.aliases: 128
+    rowHeight: medium
+  - type: table
+    name: Settlements
+    filters:
+      and:
+        - file.inFolder("Campaign/Locations/Settlements")
+        - or:
+            - currentLocation.contains(this)
+            - formula.LinkedViaPlace
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: currentLocation
+        direction: ASC
+    image: note.art
+    cardSize: 100
+    columnSize:
+      file.name: 160
+      note.aliases: 128
+    rowHeight: medium
+  - type: table
+    name: Vehicles
+    filters:
+      and:
+        - file.inFolder("Campaign/Possessions/Vehicles")
+        - or:
+            - currentLocation.contains(this)
+            - formula.LinkedViaPlace
+    order:
+      - file.name
+      - aliases
+      - vehicleType
+    image: note.image

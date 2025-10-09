@@ -1,0 +1,161 @@
+- [[Vault Hub]]
+- [[README]]
+- [[Changelog]]
+- Tools
+	- Configs
+		- [[sortspec]]
+	- [[Buttons]]
+	- [[Campaign Stat Tracker]]
+	- [[Notepad]]
+	- [[Tab of Lazy Prep]]
+	- [[Travel Calculator]]
+- Campaign/ – (Main container for all your world and campaign notes)
+	- Lore/ – e.g. calendars, ancestries, languages, events
+		- Calendars
+			- Events
+				- General
+				- Recurring
+				- Significant
+		- Ancestries
+		- Heritages
+		- Languages
+	- Parties
+		- Party Dashboards
+		- Journey Boards
+		- Adventures
+			- Party 1
+		- Quests
+			- Party 1
+		- Session Notes
+			- Party 1
+		- Service Requests
+			- Party 1
+	- Locations
+		- Planes/ – notes for planar locations or dimensions
+		- Worlds/ – notes for entire worlds (material plane planets, etc.)
+		- Topography/ – large landmasses or seas (for worlds)
+		- Regions/ – broad regions within a world or plane (optional)
+		- Areas/ – smaller areas/terrains (forests, mountains, etc.)
+		- Settlements/ – cities, towns, villages (like Sigil or gate-towns)
+		- Districts/ – districts or wards within a settlement
+		- Points of Interest/ – specific locations (shops, temples, taverns, etc.)
+	- Organizations/ – factions, guilds, Pantheon religions, etc.
+		- Hierarchies
+	- Characters/ – NPCs, important individuals (and possibly player characters)
+		- Deities
+		- NPCs
+		- Players
+			- Party 1
+	- Creatures/ – monsters or non-sapient creatures (bestiary entries)
+	- Possessions/ – items, spells, vehicles, letters, artifacts, etc.
+		- Vehicles
+		- Items
+		- Spells
+		- Letters
+		- Literature
+- z_Databases
+	- Ancestries
+		- Database - Ancestry
+	- Characters
+		- Database - Character Notes
+		- Database - Deity Notes
+		- Database - Organization Notes
+	- Locations
+		- Database - Area Note
+		- Database - Continent Note
+		- Database - District Notes
+		- Database - Location Master
+		- Database - Plane Notes
+		- Database - Planet Notes
+		- Database - POI Notes
+		- Database - Region Notes
+		- Database - Settlement Notes
+		- Database - Vehicle Note
+	- Party
+		- Party 1
+			- Database - Party 1 Relations
+		- Database - Adventure Notes
+		- Database - Party Members
+		- Database - Story
+	- [[Vault Hub]]
+		- Database - Note Management
+		- Database - Parties
+	- Debug Database
+- z_Canvas
+- z_Templates
+	- GM Templates
+		- Lore
+			- [[Template - Ancestry]]
+			- [[Template - Event]]
+			- [[Template - Heritage]]
+			- [[Template - Language]]
+		- Story Notes
+			- [[Template - Adventure]]
+			- [[Template - Journey Board]]
+			- [[Template - Quest]]
+			- [[Template - Service]]
+			- [[Template - Session Note]]
+		- Characters
+			- [[Template - Creature]]
+			- [[Template - Deity]]
+			- [[Template - Hierarchy]]
+			- [[Template - NPC]]
+			- [[Template - NPC (Tabs)]]
+			- [[Template - Organization]]
+			- [[Template - Party Dashboard]]
+			- [[Template - Player]]
+		- Locations
+			- POIs
+				- [[Template - Point of Interest]]
+				- [[Template - Point of Interest (Shop)]]
+				- [[Template - Area]]
+				- [[Template - District]]
+				- [[Template - Plane]]
+				- [[Template - Region]]
+				- [[Template - Settlement]]
+				- [[Template - Topography]]
+				- [[Template - World]]
+			- Possessions
+				- [[Template - Item]]
+				- [[Template - Letter]]
+				- [[Template - Literature]]
+				- [[Template - Spell]]
+				- [[Template - Vehicle]]
+	- Markdown
+		- Insert Rollable Table
+			- [[Rollable Table - Travel & Encounter]]
+		- [[Infobox Tabs]]
+		- [[Insert Markdown Images]]
+		- [[Obsidian Markdown Formatting]]
+		- [[Quick References]]
+- z_Assests
+	- Areas
+	- BoT
+		- README
+			- Automatic Updates
+			- FilePath
+		- ObsidianGemBOT
+	- Deities
+	- Districts
+	- Hub
+		- HubBackground
+	- Misc
+		- Placeholders
+		- PlaceholderImage
+	- NPCs
+	- Organizations
+	- Parties
+	- Planes
+	- Players
+	- POIs
+	- Regions
+	- Settlements
+	- Topography
+	- Unsorted
+	- Worlds
+- z_Audio
+	- PlaceholderAudio
+- z_Excalidraw
+- z_Unorganized
+	- Testing Grounds
+		- Campgain

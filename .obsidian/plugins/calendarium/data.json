@@ -1,0 +1,304 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Example Calendar",
+      "description": null,
+      "id": "ID_eb99b8b89ae8",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 2,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_6b8a29c959cb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Towerday",
+            "id": "ID_4969990a1aab",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Wineday",
+            "id": "ID_084a188a595a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Thunderday",
+            "id": "ID_997a88aa8bfb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fireday",
+            "id": "ID_3ad8998a8ae9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Starday",
+            "id": "ID_38bb2a5aeae9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_e98819c89b8a",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Aurora",
+            "type": "month",
+            "length": 28,
+            "id": "ID_5908db2b8b7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Novus",
+            "type": "month",
+            "length": 28,
+            "id": "ID_cb8a3b9879c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Iter",
+            "type": "month",
+            "length": 28,
+            "id": "ID_a8bad86aaab8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Florera",
+            "type": "month",
+            "length": 28,
+            "id": "ID_39f85938ba6a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Tersus",
+            "type": "month",
+            "length": 28,
+            "id": "ID_7b9b79ababf8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Solis",
+            "type": "month",
+            "length": 28,
+            "id": "ID_a97baaeb28da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Calor",
+            "type": "month",
+            "length": 28,
+            "id": "ID_2b6bdb78d95b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Caelum",
+            "type": "month",
+            "length": 28,
+            "id": "ID_2b58485b8bdb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Visus",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f9e8f9abab08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Messis",
+            "type": "month",
+            "length": 28,
+            "id": "ID_6a786bea2a7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Cedrus",
+            "type": "month",
+            "length": 28,
+            "id": "ID_091b8a280b79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Tornu",
+            "type": "month",
+            "length": 28,
+            "id": "ID_9b5b49fa7a49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Parago",
+            "type": "month",
+            "length": 28,
+            "id": "ID_29f8896b7938",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_f8f95b0b1b2b",
+            "name": "Spring",
+            "type": "Dated",
+            "kind": "Spring",
+            "month": 2,
+            "day": 13,
+            "color": "#49df41",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_ebcadb09eb0a",
+            "name": "Summer",
+            "type": "Dated",
+            "kind": "Summer",
+            "month": 6,
+            "day": 26,
+            "color": "#ff803a",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_db7bea68f819",
+            "name": "Autumn",
+            "type": "Dated",
+            "kind": "Autumn",
+            "month": 9,
+            "day": 3,
+            "color": "#f4f06f",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_68d8298baa2a",
+            "name": "Winter",
+            "type": "Dated",
+            "kind": "Winter",
+            "month": 11,
+            "day": 20,
+            "color": "#9fe4ff",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": "NONE"
+      },
+      "current": {
+        "day": 27,
+        "month": 7,
+        "year": 836
+      },
+      "events": [],
+      "categories": [
+        {
+          "name": "Religious Holidays",
+          "id": "religious-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#4A148C"
+        },
+        {
+          "id": "ID_7b9999db3a8a",
+          "color": "#fbff44",
+          "name": "Session Notes"
+        },
+        {
+          "id": "ID_1b3b6b999a0b",
+          "color": "#d14550",
+          "name": "Service Orders"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-Y"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_eb99b8b89ae8",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": true,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "Campaign/Lore/Calendar",
+      "ID_eb99b8b89ae8"
+    ],
+    [
+      "Campaign/Parties/Service Requests",
+      "ID_eb99b8b89ae8"
+    ],
+    [
+      "Campaign/Parties/Session Notes",
+      "ID_eb99b8b89ae8"
+    ]
+  ]
+}

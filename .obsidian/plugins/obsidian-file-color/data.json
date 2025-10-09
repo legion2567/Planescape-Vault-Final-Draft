@@ -1,0 +1,136 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "GltTzpd-7gVfLE-1Qqhvs",
+      "name": "Character Green",
+      "value": "#82f88f"
+    },
+    {
+      "id": "djItUCzO4_bnijoRNeswS",
+      "name": "Location Yellow",
+      "value": "#f7f986"
+    },
+    {
+      "id": "yggdq5g9E40qUoDomC2ND",
+      "name": "Item Blue",
+      "value": "#7caefe"
+    },
+    {
+      "id": "RgDki54gYsYQaqEBrWwXV",
+      "name": "Info Purple",
+      "value": "#c581fd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Campaign/Characters",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Organizations",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Parties",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Possessions/Letters",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Possessions/Literature",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Lore",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Service Requests",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Quests",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Session Notes",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Party Dashboards",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Parties/Adventures",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Journey Boards",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Organizations/Hierarchies",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Possessions",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Possessions/Vehicles",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Possessions/Items",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Possessions/Spells",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Creatures",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Locations",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Planes",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Worlds",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Topography",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Regions",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Areas",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Settlements",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Districts",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Locations/Points of Interest",
+      "color": "djItUCzO4_bnijoRNeswS"
+    }
+  ]
+}
