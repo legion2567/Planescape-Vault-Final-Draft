@@ -9,6 +9,9 @@ aliases:
 districtType:
 organizations:
 currentLocation:
+campaign:
+portalTo:
+portalKey:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

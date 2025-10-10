@@ -6,6 +6,7 @@ whichParty:
 linkedAdventure:
 completed: false
 summary:
+campaign:
 ---
 
 # `=this.file.name`

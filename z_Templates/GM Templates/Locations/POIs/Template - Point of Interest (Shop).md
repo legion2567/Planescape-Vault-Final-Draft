@@ -14,6 +14,9 @@ assistants: []
 organizations: []
 currentLocation: []
 tradePartners:
+campaign:
+portalTo:
+portalKey:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

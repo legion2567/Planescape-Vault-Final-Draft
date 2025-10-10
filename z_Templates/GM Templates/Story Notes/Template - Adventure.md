@@ -5,6 +5,7 @@ aliases:
 whichParty:
 completed: false
 summary:
+campaign:
 ---
 
 # `=this.file.name`

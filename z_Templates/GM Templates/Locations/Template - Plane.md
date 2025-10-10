@@ -6,6 +6,15 @@ art: "[[PlaceholderPlane.png]]"
 aliases: []
 organizations: []
 currentLocation:
+excalidraw-export-dark:
+layers:
+traits:
+portalKey:
+denizens:
+campaign:
+planeType:
+population:
+portalTo:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

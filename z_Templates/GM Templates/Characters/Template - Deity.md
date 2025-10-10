@@ -16,6 +16,9 @@ condition:
 currentLocation: []
 whichParty: []
 party1Relation:
+alignment:
+portfolio:
+campaign:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

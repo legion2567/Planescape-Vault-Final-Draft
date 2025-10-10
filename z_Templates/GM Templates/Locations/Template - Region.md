@@ -6,6 +6,11 @@ art: "[[PlaceholderRegion.png]]"
 aliases:
 organizations:
 currentLocation:
+campaign:
+denizens:
+population:
+portalTo:
+portalKey:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

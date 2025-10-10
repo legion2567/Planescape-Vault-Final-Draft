@@ -4,6 +4,10 @@ tags:
 art: "[[PlaceholderCreature.png]]"
 size:
 traits:
+origin:
+alignment:
+organizations:
+campaign:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

@@ -10,6 +10,7 @@ fc-category: Session Notes
 fc-date: YYY-MM-DD
 fc-end: YYY-MM-DD
 summary: ""
+campaign:
 ---
 
 # `=this.file.name`

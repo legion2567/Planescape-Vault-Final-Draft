@@ -12,6 +12,8 @@ stewards: []
 organizations: []
 currentLocation: []
 tradePartners:
+alignment:
+campaign:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

@@ -25,6 +25,9 @@ fc-date:
   year: "[-*]"
 birthday: -28
 age: 836
+origin:
+alignment:
+campaign:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

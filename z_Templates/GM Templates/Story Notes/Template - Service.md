@@ -11,6 +11,7 @@ fc-calendar: Example Calendar
 fc-date: YYY-MM-DD
 fc-category: Service Orders
 summary: ""
+campaign:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

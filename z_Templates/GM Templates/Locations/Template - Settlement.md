@@ -16,6 +16,10 @@ population:
 tradePartners:
 imports:
 exports:
+campaign:
+denizens:
+portalTo:
+portalKey:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>

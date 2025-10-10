@@ -9,6 +9,8 @@ aliases:
 worldType:
 organizations: []
 currentLocation:
+campaign:
+portalKey:
 ---
 
 > [!infobox | no-blending black]+ <font color="#ffffff">Infobox</font>
