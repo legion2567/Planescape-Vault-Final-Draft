@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+                "file": "z_Unorganized/Testing Grounds/Campaign Folder Structure Outline.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Scene Block"
+              "title": "Campaign Folder Structure Outline"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+                "file": "z_Unorganized/Testing Grounds/Campaign Folder Structure Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template - Scene Block"
+              "title": "Backlinks for Campaign Folder Structure Outline"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md"
+                "file": "z_Unorganized/Testing Grounds/Campaign Folder Structure Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Template - Scene Block"
+              "title": "File properties for Campaign Folder Structure Outline"
             }
           }
         ]
@@ -370,8 +370,8 @@
   },
   "active": "ac614cd8816e53f4",
   "lastOpenFiles": [
-    "z_Unorganized/Testing Grounds/Output Test.md",
     "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+    "z_Unorganized/Testing Grounds/Output Test.md",
     "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
     "z_Templates/GM Templates/Story Notes/Template - Quest.md",
     "z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
