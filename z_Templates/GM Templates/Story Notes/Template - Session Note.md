@@ -23,16 +23,17 @@ sessionNumber:
 
 > [!info] Session Toolbar
 > ```button
-> name: ➕ New Scene Block
-> type: append_template
-> action: Template - Scene Block
-> templater: true
-> ```
+name: ➕ New Scene Block  
+type: command  
+action: Templater: Template - Scene Block  
+color: blue  
+>```
 > ```button
-> name: ➡️ Append Idea → Future Session Ideas
-> type: command
-> action: QuickAdd: Append to Future Ideas
-> ```
+name: ➕ Future Idea
+type: command
+action: QuickAdd: Append to Future Ideas
+color: blue```
+
 
 ## Quick References
 > [!grid|col-3]

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "z_Templates",
   "templates_pairs": [
     [
       "",
@@ -24,6 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
+    "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
     ""
   ],
   "startup_templates": [],

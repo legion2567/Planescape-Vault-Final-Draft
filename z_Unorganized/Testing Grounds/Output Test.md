@@ -18,20 +18,21 @@ sessionNumber:
 # `=this.file.name`
 
 > [!kirk|info] Session HUD
-> **#**: =this.sessionNumber &nbsp;•&nbsp; **Date**: =this.sessionDate &nbsp;•&nbsp; **Party**: =this.whichParty  
-> **Campaign**: =this.campaign &nbsp;•&nbsp; **Adventure**: =this.linkedAdventure &nbsp;•&nbsp; **Recap by**: =this.recapPlayer
+> **#**: `=this.sessionNumber` &nbsp;•&nbsp; **Date**: `=this.sessionDate` &nbsp;•&nbsp; **Party**: `=this.whichParty`  
+> **Campaign**: `=this.campaign` &nbsp;•&nbsp; **Adventure**: `=this.linkedAdventure` &nbsp;•&nbsp; **Recap by**: `=this.recapPlayer`
 
 > [!tip] Session Toolbar
 > ```button
 > name: ➕ New Scene Block
-> type: append_template
-> action: Template - Scene Block
-> templater: true
+> type: command
+> action: Templater: Template - Scene Block
+> color: blue
 > ```
 > ```button
-> name: ➡️ Append Idea → Future Session Ideas
+> name: ➕ Future Idea
 > type: command
 > action: QuickAdd: Append to Future Ideas
+> color: blue
 > ```
 
 ## Quick References

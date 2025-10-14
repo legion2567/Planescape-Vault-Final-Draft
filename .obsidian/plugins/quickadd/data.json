@@ -1173,6 +1173,45 @@
         }
       ],
       "collapsed": false
+    },
+    {
+      "id": "fd57f628-2689-41a8-bf62-df429e19866f",
+      "name": "Append to Future Ideas",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Campaign/Parties/Session Notes/ToFW Session Notes/Future Session Ideas.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
     }
   ],
   "inputPrompt": "single-line",
