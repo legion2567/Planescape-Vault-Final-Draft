@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Unorganized/Testing Grounds/Output Test.md",
-                "mode": "source",
+                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Output Test"
+              "title": "Template - Scene Block"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+                "file": "z_Unorganized/Testing Grounds/Output Test.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Template - Session Note"
+              "title": "Output Test"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Unorganized/Testing Grounds/Output Test.md",
+                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Output Test"
+              "title": "Backlinks for Template - Scene Block"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Unorganized/Testing Grounds/Output Test.md"
+                "file": "z_Templates/GM Templates/Story Notes/Template - Scene Block.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Output Test"
+              "title": "File properties for Template - Scene Block"
             }
           }
         ]
@@ -370,8 +370,16 @@
   },
   "active": "ac614cd8816e53f4",
   "lastOpenFiles": [
-    "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
     "z_Unorganized/Testing Grounds/Output Test.md",
+    "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+    "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "z_Templates/GM Templates/Story Notes/Template - Quest.md",
+    "z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
+    "z_Templates/GM Templates/Story Notes/Template - Adventure.md",
+    "z_Templates/Markdown/Quick References.md",
+    "z_Templates/Markdown/Obsidian Markdown Formatting.md",
+    "z_Templates/Markdown/Insert Markdown Images.md",
+    "z_Templates/Markdown/Infobox Tabs.md",
     "z_Unorganized/D&D Online Tools Research.md",
     "Vault Hub.md",
     "Campaign/Parties/Session Notes/ToFW Session Notes/Future Session Ideas.md",
@@ -388,15 +396,7 @@
     "z_Templates/GM Templates/Locations/POIs/Template - Point of Interest.md",
     "z_Templates/GM Templates/Locations/Template - Topography.md",
     "z_Templates/GM Templates/Story Notes/Template - Service.md",
-    "z_Templates/GM Templates/Story Notes/Template - Quest.md",
-    "z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
-    "z_Templates/GM Templates/Story Notes/Template - Adventure.md",
     "Campaign/Locations/Planes/Outer Planes/Ysgard.md",
-    "z_Templates/GM Templates/Characters/Template - Organization.md",
-    "z_Templates/GM Templates/Characters/Template - Deity.md",
-    "z_Templates/GM Templates/Characters/Template - Creature.md",
-    "z_Templates/GM Templates/Characters/Template - Player.md",
-    "z_Templates/GM Templates/Characters/Template - NPC (Tabs).md",
     "z_Assets/Deities/Asmodeus.png",
     "Campaign/Parties/Session Notes/ToFW Session Notes",
     "Campaign/Parties/Service Requests/ToFW Service Requests",
