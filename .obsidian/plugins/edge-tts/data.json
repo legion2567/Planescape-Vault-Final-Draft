@@ -44,8 +44,8 @@
   "enableQueueFeature": true,
   "queueManagerPosition": null,
   "autoPauseOnWindowBlur": false,
-  "chunkSize": 9000,
   "enableExperimentalFeatures": false,
   "reducedNoticesOnMobile": true,
+  "chunkSize": 9000,
   "overrideAmpersandEscape": false
 }
