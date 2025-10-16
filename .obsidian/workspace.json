@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+                "file": "z_Templates/GM Templates/Story Notes/Template - Quest.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Template - Session Note"
+              "title": "Template - Quest"
             }
           },
           {
@@ -28,15 +28,42 @@
               "type": "markdown",
               "state": {
                 "file": "z_Unorganized/Testing Grounds/Output Test.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Output Test"
             }
+          },
+          {
+            "id": "45d5a928aa2f1c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Parties/Session Notes/ToFW Session Notes/Test Session 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Session 1"
+            }
+          },
+          {
+            "id": "90a108e1a1831ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Parties/Session Notes/ToFW Session Notes/Test Session 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Session 2"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Unorganized/Testing Grounds/Output Test.md",
+                "file": "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Output Test"
+              "title": "Backlinks for Template - Session Note"
             }
           },
           {
@@ -127,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sessiondate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,10 +178,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Unorganized/Testing Grounds/Output Test.md"
+                "file": "z_Templates/GM Templates/Story Notes/Template - Quest.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Output Test"
+              "title": "File properties for Template - Quest"
             }
           }
         ]
@@ -369,35 +396,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "de2b8e0d0175738c",
+  "active": "14d0271ffb5d8509",
   "lastOpenFiles": [
+    "z_Templates/GM Templates/Story Notes/Template - Adventure.md",
     "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "z_Unorganized/Testing Grounds/Output Test.md",
-    "z_Unorganized/Untitled.md",
-    "Vault Hub.md",
-    "z_Unorganized/Testing Grounds/Campaign Folder Structure Outline.md",
     "z_Templates/GM Templates/Story Notes/Template - Scene Block.md",
+    "z_Templates/GM Templates/Story Notes/Template - Service.md",
+    "Campaign/Parties/Session Notes/ToFW Session Notes/Test Session 2.md",
+    "Tools/Buttons.md",
+    "Campaign/Parties/Session Notes/ToFW Session Notes/Untitled.md",
+    "Campaign/Parties/Session Notes/ToFW Session Notes/Test Session 1.md",
+    "z_Unorganized/Testing Grounds/Output Test.md",
+    "Campaign/Parties/Session Notes/ToFW Session Notes/Test Session.md",
+    "z_Scripts/Session Breadcrumb Script.md",
+    "z_Templates/GM Templates/Lore/Template - Ancestry.md",
+    "Tools/Campaign Stat Tracker.md",
+    "z_Databases/Locations/Database - Location Master.base",
+    "Tools/Travel Calculator.md",
+    "Tools/Tab of Lazy Prep.md",
+    "z_Unorganized/Testing Grounds/Campaign Folder Structure Outline.md",
+    "z_Scripts/Unconfirmed 695059.crdownload",
+    "Vault Hub.md",
+    "z_Scripts",
+    "z_Templates/GM Templates/Lore/Template - Heritage.md",
+    "Campaign/Parties/Session Notes/Future Session Ideas.md",
+    "z_Unorganized/Untitled.md",
     "z_Templates/GM Templates/Story Notes/Template - Quest.md",
     "z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
-    "z_Templates/GM Templates/Story Notes/Template - Adventure.md",
     "z_Templates/Markdown/Quick References.md",
     "z_Templates/Markdown/Obsidian Markdown Formatting.md",
     "z_Templates/Markdown/Insert Markdown Images.md",
     "z_Templates/Markdown/Infobox Tabs.md",
-    "z_Unorganized/D&D Online Tools Research.md",
-    "Campaign/Parties/Session Notes/ToFW Session Notes/Future Session Ideas.md",
-    "Campaign/Locations/Planes/Outer Planes/The Outlands.md",
     "Campaign/Parties/Session Notes/Future Session Ideas",
-    "Tools/Buttons.md",
-    "z_Templates/GM Templates/Locations/Template - World.md",
-    "z_Templates/GM Templates/Locations/Template - Region.md",
-    "z_Templates/GM Templates/Locations/Template - Settlement.md",
-    "z_Templates/GM Templates/Locations/Template - Plane.md",
-    "z_Templates/GM Templates/Locations/Template - District.md",
-    "z_Templates/GM Templates/Locations/Template - Area.md",
-    "z_Templates/GM Templates/Locations/POIs/Template - Point of Interest (Shop).md",
-    "z_Templates/GM Templates/Locations/POIs/Template - Point of Interest.md",
-    "z_Templates/GM Templates/Locations/Template - Topography.md",
     "z_Assets/Deities/Asmodeus.png",
     "Campaign/Parties/Session Notes/ToFW Session Notes",
     "Campaign/Parties/Service Requests/ToFW Service Requests",
@@ -405,9 +435,6 @@
     "Campaign/Locations/Planes/Prime Material Planes",
     "Campaign/Locations/Planes/Outer Planes/Untitled",
     "Campaign/Locations/Planes/Interplanar Landmarks",
-    "Campaign/Locations/Planes/Connecting Planes",
-    "Campaign/Locations/Planes/Inner Planes",
-    "Campaign/Locations/Planes/Outer Planes",
     "z_Assets/NPCs/Fell.png",
     "z_Assets/Organizations/Sigil Factions/Heralds of Dust/Factol_Skall.webp",
     "z_Assets/Organizations/Sigil Factions/Heralds of Dust/2E Dustmen.webp",

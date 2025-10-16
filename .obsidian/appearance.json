@@ -19,7 +19,9 @@
     "SFolderStyles",
     "HideNameEmail",
     "FancyAStoryTweaks",
-    "BOTCalloutsDarkmode"
+    "BOTCalloutsDarkmode",
+    "hide-embed-title",
+    "SCallouts"
   ],
   "showViewHeader": true,
   "nativeMenus": false,

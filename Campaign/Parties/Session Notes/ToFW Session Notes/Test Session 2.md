@@ -3,7 +3,7 @@ tags:
   - SessionNote
 aliases:
 whichParty:
-sessiondate:
+sessiondate: 2025-10-14
 recapPlayer:
 fc-calendar: Example Calendar
 fc-category: Session Notes
@@ -12,7 +12,7 @@ fc-end: YYYY-MM-DD
 summary: ""
 campaign:
 linkedAdventure:
-sessionNumber: 0
+sessionNumber: 2
 exampleProperty: true
 ---
 ![[Session Breadcrumb Script]]
@@ -89,8 +89,8 @@ Expand and prepare scene details here. Only open these when they have reached th
 
 
 ### Scene 1 — *Title Placeholder*
-**Location:**  
-**Encounter Vibe:**  
+**Location: **  
+**Encounter Vibe: **  
 > [!info] 🎵 **Scene Music:** *Optional track name or ambiance*  
 > 
 
@@ -113,28 +113,44 @@ Expand and prepare scene details here. Only open these when they have reached th
 
 > [!danger] **DM Note:** Use this area for secret info, consequences, or reminders for this scene.  
 > Contents
+---
 
 ## Session Notes
-- 
+- Content
+
+---
+
 ## Post-Session Wrap-Up
-#### Quick Recap
-- 
-- 
+> [!grid|col-2]
+>> #### Quick Recap (bullets)
+>> - 
+>> - 
+>>
+>> #### NPCs involved & new relationships
+>> - 
+>> - 
+>
+>> #### Clues / Leads / Items / Gold
+>> > [!abstract]+ Tracker
+>> > | Category | Gained | Spent / Lost |
+>> > |---|---|---|
+>> > | **Clues** |  |  |
+>> > | **Items** |  |  |
+>> > | **Gold**  |  |  |
+>> > | **Allies**  |  |  |
+>> > | **Enemies**  |  |  |
+>>
+>> #### Outcomes / Loose Threads
+>> - 
+>> - 
 
-#### Outcomes / Loose Threads
-- 
-- 
-
-| **Category** | **Gained** | **Spent / Lost** |
-| ------------ | ---------- | ---------------- |
-| **Clues**    |            |                  |
-| **Items**    |            |                  |
-| **Gold**     |            |                  |
-| **Allies**   |            |                  |
-| **Enemies**  |            |                  |
 
 > [!note]- DM Thoughts & Next Hooks
 > *(Reflections on pacing, cliff-hangers, repairs, seeds for next session.)*
 > - 
+
+
+---
+
 ## Next Session Reminders
 - 
